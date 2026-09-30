@@ -1,5 +1,9 @@
 # 🩻 Medical Image Classification — AI Prototype
 
+## 🌐 Live Demo
+
+[Launch the Medical Image Classification App](https://03-medical-image-ai.streamlit.app/)
+
 A CNN-based image classification prototype built with **TensorFlow/Keras** and **Streamlit**. The project demonstrates an end-to-end image classification workflow using synthetic normal/abnormal image patterns.
 
 > ⚠️ **Important:** This is a research/demo prototype only. It is **not clinically validated** and must not be used for medical diagnosis or clinical decision-making.
