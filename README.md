@@ -120,7 +120,7 @@ Therefore, a prediction such as 100% abnormal for an unrelated real-world image 
 ├── screenshots/
 │   ├── normal_prediction.png
 │   ├── abnormal_prediction.png
-│   └── out_of_distribution_limitation.png
+│   └── limitation.png
 │
 ├── app.py
 ├── train.py
@@ -129,7 +129,6 @@ Therefore, a prediction such as 100% abnormal for an unrelated real-world image 
 ├── README.md
 └── .gitignore
 
----
 ## ⚙️ Installation
 
 Create and activate a Python environment, then install the dependencies:
